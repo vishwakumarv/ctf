@@ -1,6 +1,11 @@
-# SillyCTF 2026 — Complete Writeups Archive
+---
+title: "SillyCTF 2026 Writeups"
 
-Repository: [https://github.com/vishwakumarv/SillyCTF2026-Writeups](https://github.com/vkumxr/SillyCTF2026-Writeups)
+date: 2026-05-14
+
+categories: [CTF]
+
+tags: [cryptography, reverse, web, forensics]
 
 image:
   path: /assets/img/posts/SillyCTF.png
@@ -8,6 +13,11 @@ image:
 excerpt: Writeups and solutions for SillyCTF 2026 CTF challenges.
 
 ---
+
+# SillyCTF 2026 — Complete Writeups Archive
+
+Repository: https://github.com/vishwakumarv/SillyCTF2026-Writeups
+
 
 # Crypto
 
