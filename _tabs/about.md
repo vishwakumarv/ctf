@@ -5,7 +5,10 @@ order: 4
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"/>
+  <img
+    src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif"
+    alt="Mr. Robot GIF"
+    width="400">
 </p>
 
 <div align="center">
