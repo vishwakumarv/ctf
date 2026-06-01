@@ -4,6 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"/>
+</p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Breaking+systems+to+understand+them.;RE+%7C+Android+%7C+Malware+%7C+Embedded+%7C+Linux" alt="Typing SVG" />
