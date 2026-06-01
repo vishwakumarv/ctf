@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<p align="center">
+<p align="left">
   <img
     src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif"
     alt="Mr. Robot GIF"
